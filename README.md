@@ -1,7 +1,7 @@
 # minitalk
-42 project.
+A small project that uses signals in Unix systems to send and receive messages between processes.
 
-#How to:
+# How to:
 make the Make file using "make bonus"
 in one terminal run command ./server 
 in another terminal run ./client SERVER_PID MESSAGE
